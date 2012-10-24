@@ -1,0 +1,47 @@
+CACHE MANIFEST
+
+# Time: Tue Oct 23 2012 22:08:22 GMT-0500 (CDT)
+# This manifest was created by confess.js, http://github.com/jamesgpearce/confess
+#
+# Retrieved URL: http://localhost:3501/
+# User-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.12 Safari/535.11
+#
+# Config:
+#  task: appcache
+#  userAgent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.12 Safari/535.11
+#  wait: 0
+#  consolePrefix: #
+#  verbose: true
+#  appcache:
+#   urlsFromDocument: true
+#   urlsFromRequests: false
+#   cacheFilter: .*
+#   networkFilter: null
+#  url: http://localhost:3501
+#  configFile: /usr/local/lib/node_modules/yeoman/lib/support/confess.json
+
+CACHE:
+http://connect.facebook.net/en_US/all.js
+http://historias.kiwam.co/admin/uploads/presentacion banner.jpg
+http://localhost:3501/images/0746db81.icon_dato.png
+http://localhost:3501/images/11d6f303.icon_partido.png
+http://localhost:3501/images/56a41fbe.menu-background.jpg
+http://localhost:3501/images/640b846c.icon_trivia.png
+http://localhost:3501/images/71e480e2.icon_trivia_active.png
+http://localhost:3501/images/92e7dcd6.icon_dato_active.png
+http://localhost:3501/images/94b02aa5.header-background.jpg
+http://localhost:3501/images/bdfd7c6a.icon_partido_active.png
+http://localhost:3501/styles/images/ajax-loader.gif
+http://localhost:3501/styles/images/icons-18-black.png
+http://localhost:3501/styles/images/icons-18-white.png
+http://www.google-analytics.com/ga.js
+images/3c2d0fdb.facebook-publish.png
+images/a90ae4b4.back.jpg
+images/f9b12819.facebook-button.png
+images/feb41527.logo.png
+scripts/2e152c97.scripts.js
+styles/24b3f3e1.jquery.mobile-1.2.0.min.css
+styles/d3d80024.main.css
+
+NETWORK:
+*
